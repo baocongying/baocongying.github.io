@@ -11,7 +11,7 @@ github_repo: "https://github.com/baocongying/baocongying.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "做自己喜欢的事，一直!"
+sidebar-about-description: "我平时最喜欢做的事，就是阅读、写作、思考、分析，对了，还有观察。"
 sidebar-avatar: /img/about-BCY.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

@@ -11,7 +11,7 @@ github_repo: "https://github.com/baocongying/baocongying.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "做自己喜欢的事，一直!"
 sidebar-avatar: /img/about-BCY.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
